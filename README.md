@@ -149,7 +149,7 @@ The heatmap compares different combinations of **eps** and **min_samples**, help
 Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_LINK
+git clone https://github.com/PareeSojitra0803/CreditCard_Segmentation_Unsupervised_Learning.git
 ```
 
 Move into the project directory:
@@ -183,7 +183,7 @@ Run all cells from top to bottom.
 # 📁 Project Structure
 
 ```text
-creditcard-segmentation-unsupervised-learning/
+Creditcard-Segmentation-Unsupervised-Learning/
 │
 ├── data/
 │   └── CC GENERAL.csv
@@ -238,23 +238,13 @@ creditcard-segmentation-unsupervised-learning/
 
 # 👨‍💻 Author
 
-**Paree G. Sojitra**
+***Paree G. Sojitra***
 
-Passionate about **Data Science**, **Machine Learning**, and building practical AI solutions that transform raw data into meaningful business insights.
+> *Passionate about **Data Science**, **Machine Learning**, and building practical AI solutions that transform raw data into meaningful business insights.*
 
 - 💼 GitHub: https://github.com/PareeSojitra0803
-- 🔗 LinkedIn: https://www.linkedin.com/in/pareesojitra/
+
 
 ---
 
-# ⭐ Future Improvements
-
-- Deploy the clustering model using Streamlit.
-- Experiment with Gaussian Mixture Models (GMM).
-- Include customer demographic features for richer segmentation.
-- Build a real-time customer segmentation API.
-- Perform automated hyperparameter optimization for clustering algorithms.
-
----
-
-## ⭐ If you found this project helpful, consider giving it a star!
+### ⭐ If you found this project helpful, consider giving it a star!
