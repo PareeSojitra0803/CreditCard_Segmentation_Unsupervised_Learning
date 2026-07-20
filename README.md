@@ -232,7 +232,7 @@ Creditcard-Segmentation-Unsupervised-Learning/
 🎬 **Project Video**
 
 > **Video Link:**  
-> YOUR_GOOGLE_DRIVE_OR_YOUTUBE_LINK
+> https://drive.google.com/file/d/1gYpPebp2OK5teqM0GPP8IHjKFonSr7BI/view?usp=sharing
 
 ---
 
