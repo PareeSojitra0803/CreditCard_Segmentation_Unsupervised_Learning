@@ -155,7 +155,7 @@ git clone https://github.com/PareeSojitra0803/CreditCard_Segmentation_Unsupervis
 Move into the project directory:
 
 ```bash
-cd creditcard-segmentation-unsupervised-learning
+cd Creditcard-Segmentation-Unsupervised-Learning
 ```
 
 Install required libraries:
